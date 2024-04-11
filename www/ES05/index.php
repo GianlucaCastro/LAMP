@@ -4,11 +4,9 @@
 </head>
 <body>
 
-    <h1>Hello World!</h1>
-    <br />
-    <?php
-    phpinfo();
-    ?> 
+    <h1>Home page</h1>
+    <br />vai alla pagina di login
+
 
 </body>
 </html>
