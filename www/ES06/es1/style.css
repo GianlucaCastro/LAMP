@@ -1,0 +1,13 @@
+/* styles.css */
+button.color-change {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button.color-change:hover {
+    background-color: red;
+    color: yellow;
+}
